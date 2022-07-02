@@ -1,0 +1,12 @@
+
+ul {
+    list-style-type: circle;
+    background-color: aqua;
+}
+li {
+    font-size: 20px;
+    color: red;
+    display: inline-block;
+    padding-right: 5px;
+    
+}
